@@ -88,21 +88,6 @@ body{
     font-weight: 600;
     font-size: 16px;
 }
-#botaos{
-    display: flex;
-    justify-content: center;
-    margin: 10px auto;
-}
-#bot{
-    font-family: 'M';
-    color: #ffffff;
-    background-color: #00dd00;
-    font-size: 16px;
-    padding: 10px 60px;
-    border: none;
-    border-radius: 10px;
-    cursor:pointer;
-}
 #container{
     max-width: 940px;
     margin: 0px auto;
@@ -233,7 +218,6 @@ p{
         animation-name: notificacao;
         animation-duration: .5s;
         animation-timing-function: ease;
-        animation-delay: 5s;
         animation-fill-mode: forwards;
         display: flex;
     
@@ -273,12 +257,12 @@ p{
     }
     #tx1{
         color: #000000;
-        font-size: 14px;
+        font-size: 12px;
     
     }
     #t1{
         color: #666666;
-        font-size: 14px;
+        font-size: 12px;
     }
     #txt2{
     
@@ -286,26 +270,7 @@ p{
     #t2{
         color: #666666;
         font-weight: 600;
-        font-size: 14px;
-    }
-    #botaos{
-        display: flex;
-        justify-content: center;
-        margin: 10px auto;
-    }
-    #bot{
-        font-family: 'M';
-        color: #ffffff;
-        background-color: #00dd00;
-        font-size: 16px;
-        padding: 10px 60px;
-        border: none;
-        border-radius: 10px;
-        cursor:pointer;
-    }
-    #container{
-        max-width: 940px;
-        margin: 0px auto;
+        font-size: 12px;
     }
     #confpai{
         margin: 20px auto;
